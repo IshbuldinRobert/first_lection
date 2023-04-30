@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YQiXCnb6ld8y7tH4tkW2UVHTEjCXC5hxSpYbkg4uFUppa8QWOU/ToMMpXKJVsFKrfqGx95OApp+1axnOgFO1Mg==",
+  "dgSpecHash": "aHb8rGsKuPgh1jXgY/sBpAYCcyH12P6t0I6A1nlbWbp5c3EdZ2MmW+rANL4NL8NPy0TsrrRtNtZeyNinN5Havw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\lections\\example_6\\example_6.csproj",
+  "projectFilePath": "C:\\Study\\C#\\first_lection\\example_6\\example_6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\lections\\example_6\\example_6.csproj": {}
+    "C:\\Study\\C#\\first_lection\\example_6\\example_6.csproj": {}
   },
   "projects": {
-    "D:\\C#\\lections\\example_6\\example_6.csproj": {
+    "C:\\Study\\C#\\first_lection\\example_6\\example_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\lections\\example_6\\example_6.csproj",
+        "projectUniqueName": "C:\\Study\\C#\\first_lection\\example_6\\example_6.csproj",
         "projectName": "example_6",
-        "projectPath": "D:\\C#\\lections\\example_6\\example_6.csproj",
+        "projectPath": "C:\\Study\\C#\\first_lection\\example_6\\example_6.csproj",
         "packagesPath": "C:\\Users\\ishbu\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\lections\\example_6\\obj\\",
+        "outputPath": "C:\\Study\\C#\\first_lection\\example_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ishbu\\AppData\\Roaming\\NuGet\\NuGet.Config"
